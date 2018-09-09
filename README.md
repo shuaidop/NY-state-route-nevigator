@@ -15,6 +15,7 @@ nys.txt -show -dirctions i3 i380
 
 # Run Time
 the run time for each method is listed below:
+
 Dijkstra: (#edges +#vertex)log(#vertex) 
 
 priority Queue: #edgeslog(#edges)
