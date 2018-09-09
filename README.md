@@ -18,7 +18,7 @@ the run time for each method is listed below:
 
 Dijkstra: (#edges +#vertex)log(#vertex) 
 
-priority Queue: #edgeslog(#edges)
+priority Queue: #edges log(#edges)
 
-kruskal: bigger than #edgeslog(#edges) 
+kruskal: bigger than #edges log(#edges) 
 
