@@ -23,4 +23,5 @@ priority Queue: (#edges)log(#edges)
 kruskal: bigger than (#edges)log(#edges) 
 
 # Note
+
 Don’t check the shortest path and MST at the same time which might trigger an error        
